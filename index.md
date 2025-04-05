@@ -1,11 +1,12 @@
 ---
 title: GitOps with Argo Rollouts and KEDA
-llayout: page
-description: A blog on GitOps, Argo Rollouts, and KEDA
-theme: jekyll-theme-cayman
+layout: default
 ---
 
-# ! [🚀 GitOps with Argo Rollouts and KEDA for Scalable, Progressive Delivery](../images/gitops-argo-keda-cover.png)
+# 🚀 GitOps with Argo Rollouts and KEDA for Scalable, Progressive Delivery
+
+
+![Cover](./images/gitops-argo-keda-cover.png)
 
 
 In this blog, I’ll walk through how I used Argo Rollouts and KEDA to implement progressive delivery and autoscaling in a Kubernetes-native way using a GitOps approach.

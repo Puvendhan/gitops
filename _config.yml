@@ -1,0 +1,3 @@
+title: GitOps with Argo Rollouts and KEDA
+description: A blog on GitOps and autoscaling using Argo Rollouts and KEDA
+theme: jekyll-theme-cayman
