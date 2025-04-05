@@ -1,6 +1,7 @@
 ---
 title: GitOps with Argo Rollouts and KEDA
-layout: default
+llayout: page
+theme: jekyll-theme-cayman
 ---
 
 # ! [🚀 GitOps with Argo Rollouts and KEDA for Scalable, Progressive Delivery](../images/gitops-argo-keda-cover.png)
