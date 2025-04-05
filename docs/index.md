@@ -1,5 +1,6 @@
 ---
 title: GitOps with Argo Rollouts and KEDA
+llayout: page
 description: A blog on GitOps, Argo Rollouts, and KEDA
 theme: jekyll-theme-cayman
 ---
